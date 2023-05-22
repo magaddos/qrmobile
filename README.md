@@ -1,0 +1,2 @@
+# qrmobile
+qrcode Kompyuter arxitikturasi
